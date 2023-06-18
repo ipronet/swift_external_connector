@@ -34,9 +34,6 @@ router.all(`/:apiName/:path/`,asynHandler(async (req, res) => {
 
       })
       .catch((error) => {
-        console.log('====================================');
-        console.log(error.response);
-        console.log('====================================');
         res.send(error.response.data);
       });
   })

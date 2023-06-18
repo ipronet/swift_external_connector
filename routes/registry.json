@@ -7,7 +7,7 @@
                     "apiName": "swiftServiceAPI",
                     "protocol": "http",
                     "host": "http://10.65.39.163:7000",
-                    "url": "http://10.65.39.163:7000/swiftapp/v1/settings/",
+                    "url": "http://10.65.39.163:7000/swiftapp/v1/settings/external/",
                     "enabled": true
                 }
             ],

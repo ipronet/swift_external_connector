@@ -24,3 +24,12 @@
 {"content_length":"51","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":55.577,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
 {"content_length":"51","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":43.17,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
 {"content_length":"63","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":90.2,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"59","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":117.091,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"55","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":113.764,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"50","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":123.907,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":55.443,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":16.854,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"50","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":115.768,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"50","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":123.493,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"50","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":81.774,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"50","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":101.014,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
