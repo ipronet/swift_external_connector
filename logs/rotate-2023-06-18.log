@@ -1,0 +1,26 @@
+{"label":"API Connector logs","level":"error","message":"Cannot read properties of undefined (reading 'instances')"}
+{"content_length":"82","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":7.92,"status":500,"url":"/swiftexternal/v1/settings/updateapp"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":2.466,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI/settings/updateapp"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":0.431,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI/settings/utility"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":0.873,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI/settings/utility"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":0.994,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI/settings/updateapp"}
+{"label":"API Connector logs","level":"error","message":"Cannot read properties of undefined (reading 'instances')"}
+{"content_length":"82","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":7.037,"status":500,"url":"/swiftexternal/v1/settings/updateapp"}
+{"label":"API Connector logs","level":"error","message":"Cannot read properties of undefined (reading 'instances')"}
+{"content_length":"82","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":4.75,"status":500,"url":"/swiftexternal/v1/settings/updateapp"}
+{"content_length":"216","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":22.407,"status":200,"url":"/swiftexternal/v1/settings/updateapp"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":2.468,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":53.022,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/settings"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":0.978,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI/settings/utility"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":1.008,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI/settings/utility"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":4.117,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI/settings/utility"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":0.675,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI/settings/utility"}
+{"content_length":"33","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":1.986,"status":404,"url":"/swiftexternal/v1/swiftServiceAPI/settings/utility"}
+{"content_length":"874","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":436.977,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/utility"}
+{"content_length":"874","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":377.795,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/utility"}
+{"content_length":"874","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":403.128,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/utility"}
+{"content_length":"60","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":14.307,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"60","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":15.228,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"51","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":55.577,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"51","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":43.17,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}
+{"content_length":"63","label":"API Connector logs","level":"http","message":"incoming-api-request","method":"POST","response_time":90.2,"status":200,"url":"/swiftexternal/v1/swiftServiceAPI/testcreateprofile"}

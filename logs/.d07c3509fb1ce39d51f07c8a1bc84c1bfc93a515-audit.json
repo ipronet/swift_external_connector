@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs/.d07c3509fb1ce39d51f07c8a1bc84c1bfc93a515-audit.json",
+    "files": [
+        {
+            "date": 1687059912274,
+            "name": "logs/rotate-2023-06-17.log",
+            "hash": "76f6d06328e9d1cbaad5f5f0eb035cfa3cf09c9806078b95d318e7b8a50ef3f8"
+        },
+        {
+            "date": 1687078418062,
+            "name": "logs/rotate-2023-06-18.log",
+            "hash": "28f02e1711c7a8eed7931387651a448ce4d9cf613e6bf1e9cfb5c893558b175f"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,5 +1,5 @@
 const { logger } = require("../logs/winston");
-const ErrorResponse = require("../utls/errorResponse");
+const ErrorResponse = require("../utils/errorResponse");
 const errorHandler = (err, req, res, next) => {
 
   let error = { ...err };

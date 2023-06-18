@@ -4,7 +4,7 @@ const morgan = require("morgan");
 const errorHandler = require("./middleware/error");
 const path = require("path")
 
-const users = require("./routes/User");
+const users = require("./routes/setup");
 const { logger, morganMiddleware } = require("./logs/winston");
 
 //load env vars
@@ -21,7 +21,7 @@ if (process.env.NODE_ENV === "development") {
 }
 
 //Mount routes
-app.use("/api/v1/", users);
+app.use("/swiftexternal/v1/", users);
 
 app.use(errorHandler);
 
